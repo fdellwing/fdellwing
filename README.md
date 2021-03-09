@@ -2,9 +2,9 @@
 
 Hi,
 
-I'm Fabian and I'm deployed as a full time linux systemadministrator.
+I'm Fabian and I'm employed as a full time linux systemadministrator.
 
-I'm currently working on Python, Docker and OpenVPN stuff.
+I'm currently working on Python, Docker and Red Team stuff.
 
 You can contact me on Twitter: [ZerosGaming](https://twitter.com/ZerosGaming).
 
