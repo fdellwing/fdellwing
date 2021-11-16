@@ -2,7 +2,9 @@
 
 Hi,
 
-I'm Fabian and I'm employed as a full time linux systemadministrator.
+I'm Fabian and I'm employed as a linux sysadmin.
+
+I'm an OSCP.
 
 I'm currently working on Python, Docker and Red Team stuff.
 
