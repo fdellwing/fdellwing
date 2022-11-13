@@ -8,7 +8,7 @@ I'm an OSCP.
 
 I'm currently working on Python, Docker and Red Team stuff.
 
-You can contact me on Twitter ([dellwingf](https://twitter.com/dellwingf)) or Mastodon ([fdellwing](https://social.tchncs.de/@fdellwing)).
+You can contact me on Twitter ([dellwingf](https://twitter.com/dellwingf)) or Mastodon ([fdellwing](https://infosec.exchange/@fdellwing)).
 
 ### Stats
 
