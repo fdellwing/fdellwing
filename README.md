@@ -4,9 +4,9 @@ Hi,
 
 I'm Fabian and I'm employed as a linux sysadmin.
 
-I'm an OSCP.
+I'm an OSCP and OSDA.
 
-I'm currently working on Python, Docker and Red Team stuff.
+I'm currently working on raising my son to be a good person.
 
 You can contact me on Twitter ([dellwingf](https://twitter.com/dellwingf)) or Mastodon ([fdellwing](https://infosec.exchange/@fdellwing)).
 
